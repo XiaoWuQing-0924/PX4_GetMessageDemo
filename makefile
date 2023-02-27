@@ -1,5 +1,5 @@
 
-mavlink_control: main.c
-	g++ -g -w -I c_library_v2 -o test main.c
+PX4_GetMessageDemo: main.c
+	g++ -g -w -I ./mavlink -o PX4_GetMessageDemo main.c
 
 
