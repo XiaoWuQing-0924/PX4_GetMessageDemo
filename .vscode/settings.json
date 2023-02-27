@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "fstream": "c",
+        "random": "c",
+        "mavlink.h": "c",
+        "version.h": "c",
+        "common.h": "c",
+        "cerrno": "c"
+    }
+}

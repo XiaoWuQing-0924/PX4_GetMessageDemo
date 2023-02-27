@@ -1,0 +1,5 @@
+/home/jxl/note/uart/build/CMakeFiles/edit_cache.dir
+/home/jxl/note/uart/build/CMakeFiles/rebuild_cache.dir
+/home/jxl/note/uart/build/CMakeFiles/package.dir
+/home/jxl/note/uart/build/CMakeFiles/package_source.dir
+/home/jxl/note/uart/build/CMakeFiles/uart.dir

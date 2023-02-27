@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jxl/note/uart/main.c
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+unistd.h
+-
+termios.h
+-
+

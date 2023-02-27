@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jxl/note/uart/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/uart.dir/main.c.o   -c /home/jxl/note/uart/main.c",
+  "file": "/home/jxl/note/uart/main.c"
+}
+]
